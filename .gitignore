@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+##################################### manually added below lines.
+##################################### The above lines were from github's add .gitignore:  Python
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
